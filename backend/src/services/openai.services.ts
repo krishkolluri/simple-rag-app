@@ -1,0 +1,1 @@
+// OpenAI client removed — app now uses Ollama (local, free, no API key needed)

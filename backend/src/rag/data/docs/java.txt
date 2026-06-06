@@ -1,0 +1,3 @@
+Java is a object oriented program language also it has JRE
+java beans and it has famouse MVC framework lke spring boot
+now java rewritten in functional programming after javaversion 9 it changes alot.

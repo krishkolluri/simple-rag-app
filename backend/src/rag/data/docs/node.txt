@@ -1,0 +1,3 @@
+Node.js is a runtime for executing JavaScript outside the browser.
+Express is used to build APIs.
+JWT is used for authentication.
