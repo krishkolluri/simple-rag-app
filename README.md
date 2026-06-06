@@ -1,4 +1,4 @@
-# RAG AI Agent
+# Chat Bot RAG AI Agent
 
 A local Retrieval-Augmented Generation (RAG) chatbot that answers questions about your documents using **Ollama** (llama3.2) and **LangChain**, with a React frontend.
 
